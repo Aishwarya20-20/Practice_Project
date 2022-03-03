@@ -1,0 +1,7 @@
+PROJECT_NAME: EMAIL VALIDATION
+
+GITHUB URL: https://github.com/Aishwarya20-20/Practice_Project.git
+
+PROJECT WRITEUP
+* The project is about validation of email-id.
+* The project ensures entered email-id is valid or invalid.
