@@ -1,0 +1,7 @@
+PROJECT_NAME: ARITHMETIC CALCULATOR
+
+*The project is about calculation.
+*There are four operations done in this project.
+*The operations are as: "Addition", "Subtraction", "Multiplication" and "Division".
+*The calculation which doesn't include above operations would give "Invalid Operation".
+*The Project includes "Java Concepts".
