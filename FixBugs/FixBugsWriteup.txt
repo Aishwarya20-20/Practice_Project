@@ -1,0 +1,12 @@
+PROJECT_NAME: FIXBUGS
+
+GITHUB URL: https://github.com/Aishwarya20-20/Practice_Project.git
+
+WRITEUP
+*The project is about fixing bugs in the application.
+*The bugs can be fixed by sorting, adding, removing.
+*Here performed 6 functions.
+*Importing Arrays, ArrayList and Collections packages and instantiate the static main method.
+*We fix the underlying problem that caused the bug.The user selected option is put inside switch case and is matched with the correct case.
+
+	
