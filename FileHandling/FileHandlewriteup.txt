@@ -1,0 +1,9 @@
+PROJECT_NAME: FILEHANDLING
+ 
+GITHUB URL: https://github.com/Aishwarya20-20/Practice_Project.git
+
+WRITEUP
+*The project is about fetching a file by append into an existing path.
+*The project have been imported packages.
+*Here made of project Details to read, write and append through file handling.
+*The details have been fetched through detailed code given.
