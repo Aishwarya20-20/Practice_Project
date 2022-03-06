@@ -1,0 +1,22 @@
+PROJECT NAME: PHASE1 PROJECT
+
+*The project is about where user is allowed to input menu options for
+1)Displaying File/Folder structure.
+2)Add File/Folder recursively.
+3)Delete File/Folder recursively.
+4)Search for File/Folder recursively.
+5)Exit the application.
+
+*The project is made using Java concepts.
+
+*Data strcutures where sorting and searching techniques are used.
+
+*Generic Features are available:
+1)Retrieving the filename.
+2)Operations to add, delete, search and exit.
+
+*Code displays the Developer Name.
+
+*The options are available accordingly to fetch details.
+
+*Implemented the concepts such as exceptions, collections, and sorting techniques for source code optimization and increased performance
