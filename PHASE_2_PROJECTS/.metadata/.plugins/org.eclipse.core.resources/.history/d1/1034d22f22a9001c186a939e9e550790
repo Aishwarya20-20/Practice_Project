@@ -1,0 +1,10 @@
+PROJECT_NAME: Retrieving the Product Details Using the Product ID
+
+GIT_URL: https://github.com/Aishwarya20-20/Practice_Project.git
+
+PROJECT
+*The project is about retriveing the product id.
+*We are importing necessary packages.
+*Using xml, html and servlets here.
+*Connecting through SQL connector.
+*Here creating login page.
